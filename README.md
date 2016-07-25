@@ -1,6 +1,7 @@
 # React-Native-Android-Intercom-Bridge
+# Introduction
 
-A React Native Android Bridge Example for <a href="https://www.intercom.io/">Intercom IO</a> with the leg work done by <a href="https://github.com/tinycreative/react-native-intercom">Tiny Creative react-native-intercom</a>
+This is a React Native Android Bridge Example project for <a href="https://www.intercom.io/">Intercom IO</a>. All of the leg work was done by <a href="https://github.com/tinycreative/react-native-intercom">Tiny Creative react-native-intercom</a>.
 
 # Setup
 
@@ -14,3 +15,7 @@ A React Native Android Bridge Example for <a href="https://www.intercom.io/">Int
 
 * Thank you to Tiny Creative and his open source react-native-intercom support. This is merely a proof of concept, all leg work and credit goes to Tiny Creative and the work he/she has done
 * https://github.com/tinycreative/react-native-intercom
+
+# License
+
+MIT
