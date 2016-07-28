@@ -8,7 +8,7 @@ This is a React Native Android Bridge Example project for <a href="https://www.i
 * Clone repo: $ ```git clone git@github.com:Versame/React-Native-Android-Intercom-Bridge.git```
 * In the directory you cloned into: $ ```npm install```
 * Navigate to your_project_directory/android/app/src/main/java/com/intercompoc/MainActivity.java
-* Replace the values ```"xxxxxxxxxxxxxxxxxxxxxxxxx"``` and ```"xxxxx``` with your app id and api key from intercom.io
+* Replace the values ```"xxxxxxxxxxxxxxxxxxxxxxxxx"``` and ```"xxxxx"``` with your app id and api key from intercom.io
 * Run application with $ ```react-native run-android```
 
 # Documentation 
